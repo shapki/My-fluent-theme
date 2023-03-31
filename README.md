@@ -1,4 +1,4 @@
-# Тема бля Better Discord / Vencord
+# Тема для Better Discord / Vencord
 Ссылка для vencord: https://raw.githubusercontent.com/shapki/My-fluent-theme/main/fluent-discord-rus.theme.css
 
 Для Better Discord:
